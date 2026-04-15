@@ -1,0 +1,87 @@
+═══════════════════════════════════════════════════════════════
+  CYBERGUARD AI - EXPORT & GIT PUSH INSTRUCTIONS
+═══════════════════════════════════════════════════════════════
+
+🎯 QUICK 3-MINUTE SETUP:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPTION 1: FIGMA MAKE EXPORT (RECOMMENDED - FASTEST!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Look for "Download" or "Export" button in Figma Make
+2. Download as ZIP
+3. Extract ZIP file
+4. Open terminal in extracted folder
+5. Run these commands:
+
+   git init
+   git add .
+   git commit -m "Initial commit: CyberGuard AI prototype"
+   git remote add origin https://github.com/YOUR_USERNAME/cyberguard-ai.git
+   git push -u origin main
+
+Done! ✅
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPTION 2: MANUAL FILE CREATION (IF EXPORT NOT AVAILABLE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ALL FILES ARE ALREADY CREATED IN YOUR WORKSPACE!
+
+Required Files (check left sidebar):
+├─ /README.md                                  ✓ Created
+├─ /package.json                               ✓ Created
+├─ /.gitignore                                 ✓ Created
+├─ /SETUP.md                                   ✓ Created
+├─ /src/app/App.tsx                            ✓ Created
+├─ /src/app/components/BrowserProtection.tsx   ✓ Created
+├─ /src/app/components/ThreatPopup.tsx         ✓ Created
+├─ /src/app/components/MLAnalysis.tsx          ✓ Created
+└─ /src/app/components/Dashboard.tsx           ✓ Created
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FILE LOCATIONS IN YOUR WORKSPACE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Check your Figma Make file explorer (left sidebar) for:
+
+📁 Root Directory:
+   - README.md (full documentation)
+   - package.json (dependencies)
+   - .gitignore (git ignore rules)
+   - SETUP.md (git setup guide)
+   - EXPORT_INSTRUCTIONS.txt (this file)
+
+📁 /src/app/:
+   - App.tsx (main component)
+
+📁 /src/app/components/:
+   - BrowserProtection.tsx
+   - ThreatPopup.tsx
+   - MLAnalysis.tsx
+   - Dashboard.tsx
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FASTEST WAY TO GET GITHUB LINK:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Export/Download project from Figma Make
+2. Go to: https://github.com/new
+3. Name: cyberguard-ai
+4. Click "Create repository"
+5. Follow commands shown on GitHub page
+
+Your link will be:
+https://github.com/YOUR_USERNAME/cyberguard-ai
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOTAL FILES TO PUSH: 9 files
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+All files are ready in your workspace!
+
+═══════════════════════════════════════════════════════════════
